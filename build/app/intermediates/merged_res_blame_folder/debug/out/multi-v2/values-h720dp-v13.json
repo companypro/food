@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.inilabs.foodking.app-mergeDebugResources-42:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\1f24b2d84f9791c4e9e42844a2523179\\transformed\\appcompat-1.5.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

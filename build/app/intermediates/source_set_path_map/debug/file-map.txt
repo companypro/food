@@ -1,0 +1,66 @@
+com.inilabs.foodking.app-localbroadcastmanager-1.1.0-0 C:\Users\user\.gradle\caches\transforms-3\069bdfc122ccba9d0e4febc6ff0590bc\transformed\localbroadcastmanager-1.1.0\res
+com.inilabs.foodking.app-jetified-activity-1.8.1-1 C:\Users\user\.gradle\caches\transforms-3\0c32713fed989bdc6f8c1122310cc87c\transformed\jetified-activity-1.8.1\res
+com.inilabs.foodking.app-jetified-firebase-messaging-23.4.1-2 C:\Users\user\.gradle\caches\transforms-3\15b188cc51a77cb6e6961db39f36dfc1\transformed\jetified-firebase-messaging-23.4.1\res
+com.inilabs.foodking.app-jetified-play-services-basement-18.3.0-3 C:\Users\user\.gradle\caches\transforms-3\17086f077ce4a96215023ea2cb93fcdb\transformed\jetified-play-services-basement-18.3.0\res
+com.inilabs.foodking.app-jetified-play-services-base-18.3.0-4 C:\Users\user\.gradle\caches\transforms-3\194f108acb76d9d3445f0390947faae6\transformed\jetified-play-services-base-18.3.0\res
+com.inilabs.foodking.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-5 C:\Users\user\.gradle\caches\transforms-3\1dd0055eb462ba6819c2e5a3839993a5\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.inilabs.foodking.app-appcompat-1.5.1-6 C:\Users\user\.gradle\caches\transforms-3\1f24b2d84f9791c4e9e42844a2523179\transformed\appcompat-1.5.1\res
+com.inilabs.foodking.app-jetified-window-java-1.2.0-7 C:\Users\user\.gradle\caches\transforms-3\3382ef8a55d4cdebd2919597be16df5d\transformed\jetified-window-java-1.2.0\res
+com.inilabs.foodking.app-swiperefreshlayout-1.1.0-8 C:\Users\user\.gradle\caches\transforms-3\37112450bb97d6e66cc43bfe4e98b120\transformed\swiperefreshlayout-1.1.0\res
+com.inilabs.foodking.app-jetified-lifecycle-livedata-core-ktx-2.7.0-9 C:\Users\user\.gradle\caches\transforms-3\3ba193d3fa4563035ec2095198a0ea38\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.inilabs.foodking.app-lifecycle-runtime-2.7.0-10 C:\Users\user\.gradle\caches\transforms-3\4611f5cde2a6469a81fbc8339b289b8f\transformed\lifecycle-runtime-2.7.0\res
+com.inilabs.foodking.app-browser-1.5.0-11 C:\Users\user\.gradle\caches\transforms-3\5217fe23eacc235777fabe0283d91ea6\transformed\browser-1.5.0\res
+com.inilabs.foodking.app-lifecycle-livedata-2.7.0-12 C:\Users\user\.gradle\caches\transforms-3\56c88278209bb8e7a85248c7a231a1c9\transformed\lifecycle-livedata-2.7.0\res
+com.inilabs.foodking.app-jetified-core-1.0.0-13 C:\Users\user\.gradle\caches\transforms-3\62b4a7b21e0c5cd8d30f20cc4d5457c4\transformed\jetified-core-1.0.0\res
+com.inilabs.foodking.app-fragment-1.7.1-14 C:\Users\user\.gradle\caches\transforms-3\742b5f31830cf79050917da6b7cbc11c\transformed\fragment-1.7.1\res
+com.inilabs.foodking.app-jetified-play-services-auth-20.4.0-15 C:\Users\user\.gradle\caches\transforms-3\7c1dc12b3082cd7421c2d2cef96ab303\transformed\jetified-play-services-auth-20.4.0\res
+com.inilabs.foodking.app-jetified-profileinstaller-1.3.1-16 C:\Users\user\.gradle\caches\transforms-3\7d137f5b9d1d0253866f14010631ce0d\transformed\jetified-profileinstaller-1.3.1\res
+com.inilabs.foodking.app-jetified-window-1.2.0-17 C:\Users\user\.gradle\caches\transforms-3\80e0bf89571c50b60ef6d4f4d2213519\transformed\jetified-window-1.2.0\res
+com.inilabs.foodking.app-lifecycle-livedata-core-2.7.0-18 C:\Users\user\.gradle\caches\transforms-3\894cc25b0ae59523af0735b57aac3596\transformed\lifecycle-livedata-core-2.7.0\res
+com.inilabs.foodking.app-jetified-android-maps-utils-3.6.0-19 C:\Users\user\.gradle\caches\transforms-3\89ae39c3495a3591c318b2660dbb90c9\transformed\jetified-android-maps-utils-3.6.0\res
+com.inilabs.foodking.app-jetified-play-services-maps-18.2.0-20 C:\Users\user\.gradle\caches\transforms-3\9685c276a9907426542e5784944c9045\transformed\jetified-play-services-maps-18.2.0\res
+com.inilabs.foodking.app-jetified-tracing-1.2.0-21 C:\Users\user\.gradle\caches\transforms-3\a455e425656cc8c7f74149b616a59610\transformed\jetified-tracing-1.2.0\res
+com.inilabs.foodking.app-core-runtime-2.2.0-22 C:\Users\user\.gradle\caches\transforms-3\b340465f61a6962a48a616756b6a6c40\transformed\core-runtime-2.2.0\res
+com.inilabs.foodking.app-media-1.1.0-23 C:\Users\user\.gradle\caches\transforms-3\be37a225131febd5326f45245effb2f3\transformed\media-1.1.0\res
+com.inilabs.foodking.app-jetified-emoji2-views-helper-1.2.0-24 C:\Users\user\.gradle\caches\transforms-3\bfcdf1f07e847fdd0c8d49eb53501e2f\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.inilabs.foodking.app-jetified-lifecycle-process-2.7.0-25 C:\Users\user\.gradle\caches\transforms-3\c323615faa5a67626ae0f28c80bbf2d7\transformed\jetified-lifecycle-process-2.7.0\res
+com.inilabs.foodking.app-core-1.13.1-26 C:\Users\user\.gradle\caches\transforms-3\c763739f958d51b777182fcb02a8d1b5\transformed\core-1.13.1\res
+com.inilabs.foodking.app-jetified-savedstate-1.2.1-27 C:\Users\user\.gradle\caches\transforms-3\cebc03c88dfd4562cfcb65734039bd1e\transformed\jetified-savedstate-1.2.1\res
+com.inilabs.foodking.app-jetified-startup-runtime-1.1.1-28 C:\Users\user\.gradle\caches\transforms-3\d054b0704437c20ac5e2befbf0ee7b16\transformed\jetified-startup-runtime-1.1.1\res
+com.inilabs.foodking.app-jetified-firebase-common-20.4.3-29 C:\Users\user\.gradle\caches\transforms-3\d2c336c1148922ffca7a5fd272e9753e\transformed\jetified-firebase-common-20.4.3\res
+com.inilabs.foodking.app-jetified-appcompat-resources-1.5.1-30 C:\Users\user\.gradle\caches\transforms-3\d642f5b8f8e56082d6bbc361ddab3f8d\transformed\jetified-appcompat-resources-1.5.1\res
+com.inilabs.foodking.app-jetified-core-ktx-1.13.1-31 C:\Users\user\.gradle\caches\transforms-3\dd49ff295d9799c25100ad985454e906\transformed\jetified-core-ktx-1.13.1\res
+com.inilabs.foodking.app-jetified-emoji2-1.2.0-32 C:\Users\user\.gradle\caches\transforms-3\dfb46b27e20b5148b6d865498952dc48\transformed\jetified-emoji2-1.2.0\res
+com.inilabs.foodking.app-jetified-annotation-experimental-1.4.0-33 C:\Users\user\.gradle\caches\transforms-3\e59d19061a07eda926ccc444b1cd3e25\transformed\jetified-annotation-experimental-1.4.0\res
+com.inilabs.foodking.app-webkit-1.11.0-34 C:\Users\user\.gradle\caches\transforms-3\f9f08745b5037aaeda79656058b67631\transformed\webkit-1.11.0\res
+com.inilabs.foodking.app-lifecycle-viewmodel-2.7.0-35 C:\Users\user\.gradle\caches\transforms-3\fac49da0d991b6224134b11c647722ea\transformed\lifecycle-viewmodel-2.7.0\res
+com.inilabs.foodking.app-debug-36 E:\Company projects\New folder (17)\app source code\foodking-customer-app\android\app\src\debug\res
+com.inilabs.foodking.app-main-37 E:\Company projects\New folder (17)\app source code\foodking-customer-app\android\app\src\main\res
+com.inilabs.foodking.app-google-services-38 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\generated\res\google-services\debug
+com.inilabs.foodking.app-pngs-39 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\generated\res\pngs\debug
+com.inilabs.foodking.app-resValues-40 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\generated\res\resValues\debug
+com.inilabs.foodking.app-rs-41 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\generated\res\rs\debug
+com.inilabs.foodking.app-mergeDebugResources-42 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.inilabs.foodking.app-mergeDebugResources-43 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.inilabs.foodking.app-merged_res-44 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\app\intermediates\merged_res\debug
+com.inilabs.foodking.app-packaged_res-45 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\connectivity\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-46 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\firebase_core\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-47 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\firebase_messaging\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-48 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\flutter_inappwebview\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-49 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\flutter_keyboard_visibility\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-50 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-51 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-52 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\fluttertoast\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-53 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\geocoding_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-54 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\geolocator_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-55 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\google_api_headers\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-56 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-57 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\image_picker_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-58 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\map_launcher\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-59 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\package_info_plus\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-60 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\path_provider_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-61 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\shared_preferences_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-62 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\smart_auth\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-63 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\sqflite\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-64 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\url_launcher_android\intermediates\packaged_res\debug
+com.inilabs.foodking.app-packaged_res-65 E:\Company projects\New folder (17)\app source code\foodking-customer-app\build\webview_flutter_android\intermediates\packaged_res\debug
